@@ -507,6 +507,11 @@ input[type="submit"]:hover {
 	color: #000000;
 	margin: 0 auto;
 	padding: 10px;
+ mobile_index_html
+=======
+  
+  desk_gallery_html
+ main
 }
 
 
@@ -577,4 +582,8 @@ input[type="submit"]:hover {
 	justify-content: center;
 	align-items: end;
 	font-size: 38px;
+ mobile_index_html
+=======
+  main
+ main
 }
