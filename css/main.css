@@ -506,13 +506,7 @@ input[type="submit"]:hover {
 	font-size: 84px;
 	color: #000000;
 	margin: 0 auto;
-	padding: 10px;
- mobile_index_html
-=======
-  
-  desk_gallery_html
- main
-}
+	padding: 10px;}
 
 
 
@@ -581,9 +575,4 @@ input[type="submit"]:hover {
 	display: flex;
 	justify-content: center;
 	align-items: end;
-	font-size: 38px;
- mobile_index_html
-=======
-  main
- main
-}
+	font-size: 38px;}
