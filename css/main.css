@@ -507,4 +507,77 @@ input[type="submit"]:hover {
 	color: #000000;
 	margin: 0 auto;
 	padding: 10px;
+  
+  desk_gallery_html
+}
+
+
+
+/* Gallery Page Styles */
+
+#gallery-hero-con {
+	background: url("../images/final_images/desktop_final/rice_cooker.jpg");
+	height: 580px;
+}
+
+#gallery-title {
+	grid-column: 4/10;
+	font-size: 48px;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#gallery-text {
+	grid-column: 1/12;
+	/* Remove as content will dictate height */
+	height: 200px;
+	margin-top: 30px;
+}
+
+#p-gallery {
+	grid-column: 1/12;
+	font-size: 28px;
+	text-align: center;
+}
+
+#gallery-controls {
+	margin-top: 100px;
+	grid-column: 6/8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.dot {
+	background-color: #dddddd;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	margin: 5px;
+}
+
+#gallery h2 {
+	grid-column: 1/-1;
+	text-align: center;
+	font-size: 60px;
+}
+
+.gallery-box {
+	background-color: rgb(244, 225, 8);
+	grid-column: span 4 / span 4;
+	/* Remove as content will dictate height */
+	height: 507px;
+	margin-bottom: 20px;
+}
+
+.gallery-box a {
+	height: 100px;
+	color: #000000;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+	font-size: 38px;
+  main
 }
